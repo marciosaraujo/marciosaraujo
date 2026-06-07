@@ -14,7 +14,7 @@
 
 ## 👤 About Me
 
-Infrastructure and **Site Reliability Engineering (SRE)** professional with **20+ years** in operations, modernization, and infrastructure automation. Currently **Senior SRE/DevOps @ Stone Co.** — focused on reliability, observability, and cloud-native architectures on Azure.
+Infrastructure and **Site Reliability Engineering (SRE)** professional with **20+ years** in operations, modernization, and infrastructure automation. Currently **Senior SRE/DevOps** — focused on reliability, observability, and cloud-native architectures on Azure.
 
 - 🚀 Specialist in transitioning traditional infrastructure to **cloud-native environments**
 - ⚙️ Strong background in **IaC**, **GitOps**, and **CI/CD pipeline** design at scale
