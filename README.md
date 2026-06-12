@@ -23,7 +23,6 @@ What I care about: **keeping systems up, making deployments boring, and making o
 - 📈 Build **observability** that catches problems before users do (Datadog, Grafana, New Relic)
 - 🔒 Harden networking & **cloud security** end-to-end (WAF, NSGs, VPNs, Fortinet, F5 BigIP)
 - 🎓 Postgraduate in Computer Forensics & Digital Expertise *(in progress — IPOG)*
-- 💬 **Portuguese** (native) · **English** (advanced)
 
 > 💡 **Open to international, remote-first** Senior SRE / DevOps / Platform Engineering roles.
 
@@ -98,6 +97,16 @@ What I care about: **keeping systems up, making deployments boring, and making o
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+---
+
+## 🎓 Education & Languages
+
+- **Postgraduate** — Computer Forensics & Digital Expertise · *IPOG (in progress)*
+- **B.Tech** — Network Technology · *UniverCidade (2009)*
+
+![Portuguese](https://img.shields.io/badge/Portuguese-Native-009C3B?style=for-the-badge)
+![English](https://img.shields.io/badge/English-Advanced-0078D4?style=for-the-badge)
 
 ---
 
