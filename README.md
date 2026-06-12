@@ -94,19 +94,6 @@ What I care about: **keeping systems up, making deployments boring, and making o
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marciosaraujo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=marciosaraujo&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marciosaraujo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
-
----
-
 ## 🏆 Certifications
 
 | Badge | Certification | Issuer |
