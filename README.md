@@ -14,14 +14,27 @@
 
 ## 👤 About Me
 
-Infrastructure and **Site Reliability Engineering (SRE)** professional with **20+ years** in operations, modernization, and infrastructure automation. Currently **Senior SRE/DevOps** — focused on reliability, observability, and cloud-native architectures on Azure.
+I'm a **Senior SRE / DevOps Engineer** who turns fragile, manual infrastructure into reliable, automated, cloud-native systems. With **20+ years** in the field — from data center floors to Azure-managed Kubernetes — I've seen the whole evolution, and I bring that perspective to every reliability and modernization problem I take on.
 
-- 🚀 Specialist in transitioning traditional infrastructure to **cloud-native environments**
-- ⚙️ Strong background in **IaC**, **GitOps**, and **CI/CD pipeline** design at scale
-- 🔒 Experienced in **cloud security**, networking (WAF, NSGs, VPNs, Fortinet, F5 BigIP)
-- 📡 15+ years in data center operations — networking, virtualization, and disaster recovery
-- 🎓 Postgraduate in Computer Forensics & Digital Expertise (in progress — IPOG)
+What I care about: **keeping systems up, making deployments boring, and making on-call quiet.**
+
+- 🚀 Lead migrations from traditional infrastructure to **cloud-native** on Azure & AWS
+- ⚙️ Design **IaC / GitOps / CI/CD** pipelines that scale without surprises
+- 📈 Build **observability** that catches problems before users do (Datadog, Grafana, New Relic)
+- 🔒 Harden networking & **cloud security** end-to-end (WAF, NSGs, VPNs, Fortinet, F5 BigIP)
+- 🎓 Postgraduate in Computer Forensics & Digital Expertise *(in progress — IPOG)*
 - 💬 **Portuguese** (native) · **English** (advanced)
+
+> 💡 **Open to international, remote-first** Senior SRE / DevOps / Platform Engineering roles.
+
+<div align="center">
+
+### 🤝 Let's connect
+
+[![Connect on LinkedIn](https://img.shields.io/badge/Let's_talk_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marciosaraujo)
+[![Email me](https://img.shields.io/badge/Email_me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcio@marcioaraujo.net)
+
+</div>
 
 ---
 
@@ -78,6 +91,19 @@ Infrastructure and **Site Reliability Engineering (SRE)** professional with **20
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marciosaraujo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=marciosaraujo&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marciosaraujo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+</div>
 
 ---
 
