@@ -52,6 +52,7 @@ What I care about: **keeping systems up, making deployments boring, and making o
 ### 🏗️ Infrastructure as Code & GitOps
 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 ![Atlantis](https://img.shields.io/badge/Atlantis-GitOps-0052CC?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -125,7 +126,7 @@ What I care about: **keeping systems up, making deployments boring, and making o
 ---
 
 **Keywords:** `Site Reliability Engineering` `SRE` `DevOps` `Platform Engineering`
-`Azure` `Azure DevOps` `AWS` `Kubernetes` `AKS` `Docker` `Microservices`
+`Azure` `Azure DevOps` `AWS` `Kubernetes` `AKS` `Docker` `Helm` `Microservices`
 `Terraform` `IaC` `GitOps` `Atlantis` `CI/CD` `Pipelines` `Cloud-Native`
 `Observability` `Monitoring` `Datadog` `New Relic` `Grafana` `Splunk` `Zabbix`
 `Reliability` `High Availability` `SLA` `SLO` `Incident Response` `Disaster Recovery`
