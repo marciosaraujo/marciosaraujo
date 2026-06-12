@@ -124,9 +124,14 @@ What I care about: **keeping systems up, making deployments boring, and making o
 
 ---
 
-**Keywords:** `SRE` `DevOps` `Azure` `Kubernetes` `AKS` `Terraform` `IaC` `GitOps`
-`CI/CD` `Docker` `Observability` `Platform Engineering` `Cloud-Native` `Microservices`
-`Bash` `PowerShell` `Datadog` `New Relic` `Atlantis` `RabbitMQ` `Linux` `Networking`
+**Keywords:** `Site Reliability Engineering` `SRE` `DevOps` `Platform Engineering`
+`Azure` `Azure DevOps` `AWS` `Kubernetes` `AKS` `Docker` `Microservices`
+`Terraform` `IaC` `GitOps` `Atlantis` `CI/CD` `Pipelines` `Cloud-Native`
+`Observability` `Monitoring` `Datadog` `New Relic` `Grafana` `Splunk` `Zabbix`
+`Reliability` `High Availability` `SLA` `SLO` `Incident Response` `Disaster Recovery`
+`Cloud Security` `WAF` `Cloudflare` `Fortinet` `F5 BigIP` `Networking` `Key Vault`
+`Linux` `Red Hat` `Windows Server` `Active Directory` `VMware` `.NET`
+`Bash` `PowerShell` `RabbitMQ` `Automation`
 
 ---
 
