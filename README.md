@@ -14,17 +14,17 @@
 
 ## 👤 About Me
 
-I'm a **Senior SRE / DevOps Engineer** who turns fragile, manual infrastructure into reliable, automated, cloud-native systems. With **20+ years** in the field — from data center floors to Azure-managed Kubernetes — I've seen the whole evolution, and I bring that perspective to every reliability and modernization problem I take on.
+I'm a Senior SRE / DevOps Engineer who turns fragile, manual infrastructure into reliable, automated, cloud-native systems. With 20+ years in the field — from data center floors to Azure-managed Kubernetes — I've seen the whole evolution, and I bring that perspective to every reliability and modernization problem I take on.
 
-What I care about: **keeping systems up, making deployments boring, and making on-call quiet.**
+What I care about: keeping systems up, making deployments boring, and making on-call quiet.
 
-- 🚀 Lead migrations from traditional infrastructure to **cloud-native** on Azure & AWS
-- ⚙️ Design **IaC / GitOps / CI/CD** pipelines that scale without surprises
-- 📈 Build **observability** that catches problems before users do (Datadog, Grafana, New Relic)
-- 🔒 Harden networking & **cloud security** end-to-end (WAF, NSGs, VPNs, Fortinet, F5 BigIP)
-- 🎓 Postgraduate in Computer Forensics & Digital Expertise *(in progress — IPOG)*
+* 🔄 Lead migrations from traditional infrastructure to cloud-native on Azure
+* ⚙️ Design IaC / GitOps / CI/CD pipelines that scale without surprises
+* 📈 Build observability that catches problems before users do (Datadog, Splunk, Grafana) — maintain an internal AI prompt repository for troubleshooting, runbooks and postmortems, cutting time on these tasks by 50%
+* 🔒 Harden networking & cloud security end-to-end (WAF, NSGs, VPNs, Fortinet, F5 BIG-IP)
+* 🎓 Postgraduate in AIOps & AI for Cloud Engineering (in progress — expected 2027)
 
-> 💡 **Open to international, remote-first** Senior SRE / DevOps / Platform Engineering roles.
+💡 Open to international, remote-first Senior SRE / DevOps / Platform Engineering roles.
 
 <div align="center">
 
@@ -42,7 +42,6 @@ What I care about: **keeping systems up, making deployments boring, and making o
 ### ☁️ Cloud & Platform Engineering
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AKS](https://img.shields.io/badge/AKS-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -103,6 +102,7 @@ What I care about: **keeping systems up, making deployments boring, and making o
 
 ## 🎓 Education & Languages
 
+- **Postgraduate** — AIOps & AI for Cloud Engineering · *(in progress — expected 2027)*
 - **Postgraduate** — Computer Forensics & Digital Expertise · *IPOG (in progress)*
 - **B.Tech** — Network Technology · *UniverCidade (2009)*
 
@@ -126,10 +126,10 @@ What I care about: **keeping systems up, making deployments boring, and making o
 ---
 
 **Keywords:** `Site Reliability Engineering` `SRE` `DevOps` `Platform Engineering`
-`Azure` `Azure DevOps` `AWS` `Kubernetes` `AKS` `Docker` `Helm` `Microservices`
+`Azure` `Azure DevOps` `Kubernetes` `AKS` `Docker` `Helm` `Microservices`
 `Terraform` `IaC` `GitOps` `Atlantis` `CI/CD` `Pipelines` `Cloud-Native`
 `Observability` `Monitoring` `Datadog` `New Relic` `Grafana` `Splunk` `Zabbix`
-`Reliability` `High Availability` `SLA` `SLO` `Incident Response` `Disaster Recovery`
+`Reliability` `High Availability` `SLO` `Incident Response` `Disaster Recovery`
 `Cloud Security` `WAF` `Cloudflare` `Fortinet` `F5 BigIP` `Networking` `Key Vault`
 `Linux` `Red Hat` `Windows Server` `Active Directory` `VMware` `.NET`
 `Bash` `PowerShell` `RabbitMQ` `Automation`
